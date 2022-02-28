@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I am Sonia Stine, currently pursuing my Bachelor Of Technology in Computer Science. I am a tech enthusiast. I am always open to collaborating on projects and innovative ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Sonia Stine-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/sonia-stine-4435b022b/)](https://www.linkedin.com/in/sonia-stine-4435b022b/)
+[![Linkedin Badge](https://img.shields.io/badge/-SoniaStine-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sonia-stine-4435b022b/)](https://www.linkedin.com/in/sonia-stine-4435b022b/)
 [![Gmail Badge](https://img.shields.io/badge/-SoniaStine@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soniastine1412@gmail.com)](mailto:soniastine1412@gmail.com)
 
 [![Sonia's github activity graph](https://activity-graph.herokuapp.com/graph?username=ss987&theme=xcode)](https://git.io/ss987)
