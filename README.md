@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 I am Sonia Stine, currently pursuing my Bachelor Of Technology in Computer Science. I am a tech enthusiast. I am always open to collaborating on projects and innovative ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-khushiSaxena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/sonia-stine-4435b022b/)](https://www.linkedin.com/in/khushi321/)
+[![Linkedin Badge](https://img.shields.io/badge/-Sonia Stine-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/sonia-stine-4435b022b/)](https://www.linkedin.com/in/khushi321/)
 [![Gmail Badge](https://img.shields.io/badge/-SoniaStine@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soniastine1412@gmail.com)](mailto:soniastine1412@gmail.com)
 
-[![Khushi's github activity graph](https://activity-graph.herokuapp.com/graph?username=ss987&theme=xcode)](https://git.io/ss987)
+[![Sonia's github activity graph](https://activity-graph.herokuapp.com/graph?username=ss987&theme=xcode)](https://git.io/ss987)
 
 ## ⚡ Technologies
 
@@ -48,8 +48,8 @@ I am Sonia Stine, currently pursuing my Bachelor Of Technology in Computer Scien
 
 <p align="center">
 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Khushi0321&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=khushi0321&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ss987&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ss987&theme=tokyonight" />
 </p>
 
 <br>
