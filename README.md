@@ -33,7 +33,7 @@ I am Sonia Stine, currently pursuing my Bachelor Of Technology in Computer Scien
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Java](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ### Libraries & Framework :
 
 
